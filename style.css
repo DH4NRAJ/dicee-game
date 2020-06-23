@@ -58,7 +58,11 @@
     margin: 5px auto;
     margin-bottom: 75px;
   }
-  
+a:link, a:visited { 
+  color: white;
+  text-decoration: none;
+  cursor: auto;
+}
   @media(max-width: 1080px){
     h1 {
         margin: 10px;
